@@ -183,3 +183,17 @@ background:#c97b63;
 font-weight:600;
 font-size:1rem;
 }
+.social-section .btn{
+display:inline-block;
+margin-top:25px;
+padding:16px 35px;
+background:#E1306C;
+color:white;
+font-weight:600;
+border-radius:40px;
+text-decoration:none;
+}
+
+.social-section .btn:hover{
+transform:translateY(-2px);
+}
